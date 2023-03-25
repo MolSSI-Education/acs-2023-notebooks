@@ -3,11 +3,11 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python
+  - python=3.10
   - pandas
   - rdkit
   - seaborn
   - numpy
   - jupyterlab
   - notebook
-  - sklearn
+  - scikit-learn
