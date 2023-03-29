@@ -16,7 +16,7 @@ Topics for these notebooks include:
 There are many options to run these notebooks. We recommend using JupyterLab instead of Jupyter notebook.
 
 ### Lauch on Binder
-Click the binder badge or [this link]((https://mybinder.org/v2/gh/molssi-education/acs-2023-notebooks/HEAD?labpath=table_of_contents.ipynb) to launch a notebook in a binder. Creating the environment will take a few minutes, and your work is not saved between sessions.
+Click the binder badge or [this link](https://mybinder.org/v2/gh/molssi-education/acs-2023-notebooks/HEAD?labpath=table_of_contents.ipynb) to launch a notebook in a binder. Creating the environment will take a few minutes, and your work is not saved between sessions.
 
 ### Run on GitHub CodeSpaces
 This repository is set up to run in a GitHub CodeSpace. Click the green "Code" button on this repository and choose "CodeSpaces". This will open a VSCode environment in GitHub CodeSpaces. Usage will be billed to your personal account, however, GitHub gives some free codespace hours to all accounts each month.
