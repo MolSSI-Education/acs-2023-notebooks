@@ -11,3 +11,5 @@ dependencies:
   - jupyterlab
   - notebook
   - scikit-learn
+  - ngl-view
+  - qcarchive/label/next::qcportal
