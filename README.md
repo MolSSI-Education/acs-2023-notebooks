@@ -1,4 +1,7 @@
 # Python Workshop at ACS 2023
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/molssi-education/acs-2023-notebooks)
+
 This repository contains notebooks presented at the Fall and Spring 2023 ACS Meetings for a workshop called "Python for Data Science in Chemistry".
 
 Topics for these notebooks include:
